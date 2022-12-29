@@ -20,6 +20,4 @@ public class CursoApplication {
 		SpringApplication.run(CursoApplication.class, args);
 		logger.info("API para cadastro para cursos da plataforma Alura.");
 	}
-	
-	
 }
